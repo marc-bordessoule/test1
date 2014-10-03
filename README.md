@@ -3,4 +3,7 @@ test1
 
 petit test
 
-## eval de gitHub, Chrome Dev Editor en mode web app+polymer
+## eval Chrome Dev Editor
+  sur gitHub,  
+  en mode web app+polymer
+
